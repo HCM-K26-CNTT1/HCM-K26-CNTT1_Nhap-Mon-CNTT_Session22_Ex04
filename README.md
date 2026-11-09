@@ -30,4 +30,4 @@ Tích xanh (Accepted Answer) chỉ cho biết người đặt câu hỏi đã đ
 
 Nó không đảm bảo rằng giải pháp vẫn hoạt động với các phiên bản phần mềm hoặc hệ điều hành mới.
 
-Vì vậy, khi tìm cách sửa lỗi, em cần xem xét cả thời gian đăng bài, phản hồi của người dùng và mức độ phù hợp với hệ thống hiện tại.
+Vì vậy, khi tìm cách sửa lỗi, cần xem xét cả thời gian đăng bài, phản hồi của người dùng và mức độ phù hợp với hệ thống hiện tại.
